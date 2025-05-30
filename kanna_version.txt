@@ -10,6 +10,7 @@ VSVersionInfo(
     date=(0, 0)
   ),
   kids=[
+    # Kanna PDF Password Recovery version info
     StringFileInfo(
       [
       StringTable(
