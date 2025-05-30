@@ -24,7 +24,7 @@ A user-friendly desktop application to recover passwords from protected PDF docu
 
 ### Option 1: Download the Executable (Windows)
 
-1. Go to the [Releases](https://github.com/YourUsername/kanna-pdf-password-recovery/releases) page
+1. Go to the [Releases](https://github.com/KannaCS/pdfpasswordrecovery/releases/tag/pdf) page
 2. Download the latest `.exe` file
 3. Run the executable - no installation required!
 
@@ -32,8 +32,8 @@ A user-friendly desktop application to recover passwords from protected PDF docu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/kanna-pdf-password-recovery.git
-   cd kanna-pdf-password-recovery
+   git clone https://github.com/KannaCS/pdfpasswordrecovery.git
+   cd pdfpasswordrecovery
    ```
 
 2. Install Python 3.7 or higher
