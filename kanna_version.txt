@@ -14,11 +14,11 @@ VSVersionInfo(
       [
       StringTable(
         u'040904B0',
-        [StringStruct(u'CompanyName', u'Kanna Software'),
+        [StringStruct(u'CompanyName', u'KannaCS'),
         StringStruct(u'FileDescription', u'Kanna PDF Password Recovery'),
         StringStruct(u'FileVersion', u'1.0.0'),
         StringStruct(u'InternalName', u'kanna_pdf_recovery'),
-        StringStruct(u'LegalCopyright', u'© 2025 Kanna Software'),
+        StringStruct(u'LegalCopyright', u'© 2025 KannaCS'),
         StringStruct(u'OriginalFilename', u'Kanna PDF Password Recovery.exe'),
         StringStruct(u'ProductName', u'Kanna PDF Password Recovery'),
         StringStruct(u'ProductVersion', u'1.0.0')])
